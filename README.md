@@ -2,7 +2,9 @@
 
 A full-featured, bare-metal implementation of the classic Tetris game, developed for the **LandTiger** development board (NXP LPC1768 ARM Cortex-M3).
 
-This project demonstrates embedded systems programming, including direct peripheral control, interrupt handling, race condition management, and real-time audio synthesis.
+This project was created for extrapoints for the course Computer Architectures.
+
+Created for extra points in the *Computer Architectures* course @ Politecnico di Torino.
 
 ## 🎮 Features
 
@@ -68,8 +70,8 @@ This project demonstrates embedded systems programming, including direct periphe
 
 **Mirko Tenore**
 
-* Project for LandTiger / Embedded Systems Course.
-* Year: 2026
+* Project for Computer Architectures Course.
+* Accademic Year: 2026
 
 ---
 
